@@ -7,3 +7,5 @@
 <a href="https://larpslm.github.io/Shelby_Russia/">Shelby Russia</a>
 
 <a href="https://LarpSLM.github.io/driftschool13/">DriftSchool13</a>
+
+<a href="https://larpslm.github.io/kotel.doctor/"Kotel.doctor</a>
