@@ -22,11 +22,11 @@
 <a href="https://larpslm.github.io/kotel.doctor/">Kotel.doctor</a>
 <p>Коммерческий проект. Задачей была разработка отдельной страницы для дальнейшего внедрения в CMS<br>
   Активная работа с JS. Имитация БД. Адаптивная верстка под планшеты и мобильные устройства.<br>
-  В настоящее время используется по адресу: <a href="https://kotel.doctor/online-diagnostika"</a></p>
+  В настоящее время используется по адресу: https://kotel.doctor/online-diagnostika</p>
 
 <a href="https://larpslm.github.io/carontextile/">Caron</a>
-<p>Коммерческий проект. HTML5, SCSS, JS. Используется. <a href="carontextile.ru"</p>
+<p>Коммерческий проект. HTML5, SCSS, JS. Используется. carontextile.ru</p>
 
 <a href="https://larpslm.github.io/europlastik/">Европластик</a>
 <p>По сути копия сайта выше. Пример того, как с помощью препроцессора можно быстро получить другой сайт.<br>
-  HTML5, SCSS, JS. Используется. <a href="europlastik.net"</p>
+  HTML5, SCSS, JS. Используется. europlastik.net</p>
