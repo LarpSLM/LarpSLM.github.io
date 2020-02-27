@@ -25,8 +25,8 @@
   В настоящее время используется по адресу: https://kotel.doctor/online-diagnostika</p>
 
 <a href="https://larpslm.github.io/carontextile/">Caron</a>
-<p>Коммерческий проект. HTML5, SCSS, JS. Используется. carontextile.ru</p>
+<p>Коммерческий проект. HTML5, SCSS, JS. Работа с хостингом. Используется. https://carontextile.ru</p>
 
 <a href="https://larpslm.github.io/europlastik/">Европластик</a>
 <p>По сути копия сайта выше. Пример того, как с помощью препроцессора можно быстро получить другой сайт.<br>
-  HTML5, SCSS, JS. Используется. europlastik.net</p>
+  HTML5, SCSS, JS. Работа с хостингом. Используется. http://europlastik.net</p>
