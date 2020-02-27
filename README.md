@@ -1,6 +1,10 @@
 # LarpSLM.github.io
 
 <a href="https://larpslm.github.io/Interior/">Interior</a>
+<p>Первый статичный макет. Оптимизация кода и переиспользование на нескольких страницах + работа<br>
+  с иконками-шрифтами (fontawesome)</p>
+
+<a href="https://larpslm.github.io/cloudbudget/">Cloudbudget</a>
 
 <a href="https://larpslm.github.io/tk_korzina/">TK Korzina</a>
 
