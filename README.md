@@ -1,24 +1,24 @@
 # LarpSLM.github.io
 
 live-preview: <a href="https://larpslm.github.io/Interior/">Interior</a>
-<p>code: https://github.com/LarpSLM/Interior</p>
+<br>code: https://github.com/LarpSLM/Interior
 <p>Первый статичный макет. Оптимизация кода и переиспользование на нескольких страницах<br>
    + работа векторной графикой (fontawesome)</p>
 <br>
 <br>
 live-preview: <a href="https://larpslm.github.io/cloudbudget/">Cloudbudget</a>
-<p>code: https://github.com/LarpSLM/cloudbudget </p>
+<br>code: https://github.com/LarpSLM/cloudbudget
 <p>Статичный макет. В создании применялась связка Flex + SCSS<p>
 <br>
 <br>
 live-preview: <a href="https://larpslm.github.io/tk_korzina/">TK Korzina</a>
-<p>code: https://github.com/LarpSLM/tk_korzina </p>
+<br>code: https://github.com/LarpSLM/tk_korzina
 <p>Один из первых продакшн-проектов. Создавался без макетов и контента<br>
   В настоящее время используется. На его примере было ознакомление с работой хостинга</p>
 <br>
 <br>
 live-preview: <a href="https://larpslm.github.io/Shelby_Russia/">Shelby Russia</a>
-<p>code: https://github.com/LarpSLM/Shelby_Russia</p>
+<br>code: https://github.com/LarpSLM/Shelby_Russia
 <p>Учебный проект без макета. Применение видео в качестве основного фона сайта +<br> 
   расширенная работа с формой обратной связи. Видео загружается долго, но оно того стоит.</p> 
 <br>
@@ -45,6 +45,7 @@ live-preview: <a href="https://larpslm.github.io/europlastik/">Европлас�
 <p>code: https://github.com/LarpSLM/europlastik</p>
 <p>По сути копия сайта выше. Пример того, как с помощью препроцессора можно быстро получить другой сайт.<br>
   HTML5, SCSS, JS. Работа с хостингом. Используется. http://europlastik.net</p>
-
+<br>
+<br>
 <p>code: https://github.com/LarpSLM/the-blog</p>
 <p>Полностью рабочий блог на SPA. Используется связка React-Redux. Работа с REST API.</p>
