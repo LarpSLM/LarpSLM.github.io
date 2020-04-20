@@ -1,6 +1,7 @@
 # LarpSLM.github.io
 
-<a href="https://larpslm.github.io/Interior/">Interior</a>
+live-preview: <a href="https://larpslm.github.io/Interior/">Interior</a>
+<code/>: <a href='https://github.com/LarpSLM/Interior'></a>
 <p>Первый статичный макет. Оптимизация кода и переиспользование на нескольких страницах<br>
    + работа с иконками-шрифтами (fontawesome)</p>
 
